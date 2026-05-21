@@ -22,7 +22,7 @@ Here is a unified catalog of the production-ready systems I have developed:
 *A real-time, high-volume restaurant order synchronization ecosystem connecting customer tables to the kitchen.*
 - **Features:** Jetpack Compose tablet client, non-blocking low-latency `SoundPool` chiming alerts, always-on screen locks, anonymous session handshakes, and full Firestore offline caching.
 - **Tech:** Kotlin, Jetpack Compose, React, Vite, Firebase Firestore & Auth.
-- 🔗 **View Repository:** [github.com/adksoftwares/KDS](https://github.com/adksoftwares/KDS) | 🎬 **[Watch Demo Video](https://github.com/adksoftwares/KDS/raw/main/assets/kds_demo.mp4)**
+- 🔗 **View Repository:** [github.com/adksoftwares/KDS](https://github.com/adksoftwares/KDS)
 
 ### [2. 💳 Point of Sale System (POS)](https://github.com/adksoftwares/POS-System)
 *An enterprise desktop and mobile cashier POS network.*
